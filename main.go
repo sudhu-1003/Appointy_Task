@@ -9,7 +9,7 @@ import (
 	"time"
   "golang.org/x/crypto/bcrypt"
 
-  "InstagramAPI/router"
+  "Appointy_Task/router"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/bson/primitive"
