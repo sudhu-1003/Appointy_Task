@@ -12,14 +12,14 @@ User Creation and Image Posting API made in GoLang.
 Use the [GIT](https://git-scm.com/downloads) / Github Desktop to clone this API.
 
 ```bash
-git clone https://github.com/amartyaa/AppointyTask
+git clone https://github.com/sudhu-1003/Appointy_Task
 ```
 
 ## Pre-requisites
 
 Initialize the project by typing in the following command in the project directory
 ```bash
-go mod init InstagramAPI
+go mod init Appointy_Task
 ```
 
 These packages must be downloaded/installed after initialization for this code to run successfully
